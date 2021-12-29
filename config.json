@@ -1,0 +1,9 @@
+{
+	"ip":"darktownnetwork.aternos.me",
+	"port": "21776",
+	"name": "ghochindar",
+	"auto-night-skip":"true",
+	"login-enabled":"true",
+	"register-cmd":"/register (8194030097)) (8194030097))",
+	"login-cmd":"/login (8194030097)",
+}
